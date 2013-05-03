@@ -1,0 +1,16 @@
+############## LEYENDA GIT ################
+~~~
+    1) Proyecto que  incluye las 55 tareas y sus predecesoras .
+    2 )introducción de la columna EDT  para organizar las tareas mediante el código dado en la practica.
+    3) en esta fase he introducido las fechas mediante las duraciones que se daban .  El resultado ha sido erróneo , pero esta corregido en fases siguientes.
+    4)Introducción de los recursos mediante un formulario de recursos , así como toda la información que se nos proporciona de ellos.
+    5)En esta fase procedo a la asignación de recursos para las tareas . Lo he realizado mediante el opción de asignar recurso e ir escribiendo   
+      las cantidades que usa cada recurso  en porcentaje. 
+      Después de esta fase he tenido problemas con recursos sobre asignados.
+    6)Fase 6 del ejercicio y fase de corrección de errores graves. Hemos realizado el calendario para el Experto en Gis  de lunes a viernes con el horario
+      previsto en el apartado 6 de la practica. El cambio se ha producido mediante la hoja de recursos , seleccionando las propiedades de nuestro recurso , en
+      este caso Experto en Gis , y modificando su calendario laboral . 
+      En esta fase , como ya he dicho , también se han corregido errores muy graves. Las fechas del proyecto estaban mal escritas debido a un fallo en las 
+      duraciones , ya que MProject tiene tanto la opción de programar automáticamente como de forma manual , por ese motivo las duraciones han sido mal asignadas
+      y las fechas eran erróneas. Las he modificado manualmente. Por otro lado estaba el problema de sobreasignacion , así que he utilizado la opción de    
+      redistribuir recurso , la cual encontramos en la ventana-pestaña de recursos . De esta forma ,  los recursos han dejado de estar sobreasignados.
